@@ -6,7 +6,12 @@
   "repository": "git@github.com:MauroJr/cb-superlogin.git",
   "author": "Mauro Junior",
   "license": "MIT",
-  "dependencies": {},
+  "dependencies": {
+    "couch-pwd": "^0.0.1",
+    "express": "^4.15.3",
+    "urlsafe-base64": "^1.0.0",
+    "uuid": "^3.1.0"
+  },
   "keywords": [],
   "scripts": {
     "?info": "Display information about the scripts.",
